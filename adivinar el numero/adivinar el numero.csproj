@@ -6,4 +6,8 @@
     <RootNamespace>adivinar_el_numero</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
